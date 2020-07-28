@@ -1,3 +1,8 @@
+## Purpose
+
+- Machine Learning clustering script to aggregate the closest Postal Codes in UK
+- It produces charts (dendrogram and others), and an excel file with the cluster classification of the postal codes.
+
 ## Installation
 
 - Python based script `[python 3.8]` required to get started
