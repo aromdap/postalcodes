@@ -1,0 +1,9 @@
+2020-07-28 16:31:40,250:INFO:Constructor created folder: Created: ./logs
+2020-07-28 16:31:40,250:INFO:Constructor created folder: Created: ./outputs
+2020-07-28 16:32:16,416:INFO:Raw data loaded from: https://www.doogal.co.uk/files/postcodes.zip
+2020-07-28 16:32:17,474:INFO:Data has been sliced & shuffled
+2020-07-28 16:32:17,506:INFO:Geometry points generated from Longitude / Latitude coordinates
+2020-07-28 16:32:18,018:INFO:Dedrogram figure saved to: ./outputs/20200728_Dendrogram
+2020-07-28 16:32:18,233:INFO:Cluster figure saved to: ./outputs/20200728_Chart_A
+2020-07-28 16:32:18,402:INFO:Outputs saved to: ./outputs/20200728postcode_analysis.xlsx
+2020-07-28 16:32:18,566:INFO:Dataframe chart geometry saved to: ./outputs/20200728_Chart_B
