@@ -16,8 +16,11 @@
 
 - This script is ready to be run under Docker containers: you will get the outputs & logs in the current folder of your local machine
 
-> Linux based: assuming Docker is already installed, build and run a self-removable container
-
+> Linux based: install Docker
+```shell
+sudo apt-get install docker-engine -y
+```
+> Linux based: use Docker
 ```shell
 $ sudo docker build --tag yourtag:1.0 .
 $ sudo docker run --name yourname --rm -v "$(pwd)":/app yourtag:1.0
