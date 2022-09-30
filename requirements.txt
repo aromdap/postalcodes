@@ -8,7 +8,7 @@ et-xmlfile==1.0.1
 Fiona==1.8.13.post1
 geopandas==0.8.1
 jdcal==1.4.1
-joblib==0.16.0
+joblib==1.2.0
 kiwisolver==1.2.0
 matplotlib==3.3.0
 munch==2.5.0
